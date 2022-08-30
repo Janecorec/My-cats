@@ -1,0 +1,27 @@
+body{
+    font-family: sans-serif; /*site font*/
+}
+h1{color:red;
+    font-weight: bold;
+}
+
+footer h4{ /*Footer text*/
+background-color: aquamarine;
+text-align: center;
+font-size: 24px;
+font-weight: bold;    
+}
+
+.bildtext{ /*bildtext style*/
+    font-size: 14px;
+    font-style: italic;
+    text-align: center;
+}
+
+.cat-text{
+    padding-top: 40px;
+}
+
+footer{
+    padding-top: 40px;
+}
